@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ceyda and I'm a Computer Engineering, from Türkiye.</h2>
+<h2 align="left">Hi 👋! I am Ceyda and I'm a Computer Engineering, from Bursa.</h2>
 
 ###
 
