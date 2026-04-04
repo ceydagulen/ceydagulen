@@ -1,45 +1,36 @@
-<h2 align="left">Hi 👋! I am Ceyda and I'm a Computer Engineering, from Bursa.</h2>
-
-###
+# 🚀 Engineering the Future
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ceydagulen&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ceydagulen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=945DD6&center=true&vCenter=true&width=435&lines=Hi+I'm+Ceyda+👋" alt="Typing SVG" />
 </div>
 
-###
-
-<img align="right" height="150" src="#"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+### 📊 My GitHub Journey
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ceydagulen&theme=dracula&hide_border=false" alt="GitHub Streak" />
 </div>
 
-###
+<br/>
 
-<div align="left">
-  <a href="mailto:ceyda_glnn_@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ceydagulen&show_icons=true&theme=dracula&rank_icon=github&display_format=github-light-green" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceydagulen&layout=compact&theme=dracula&langs_count=6" width="48%" />
+</div>
+
+### 🛠️ Tech Stack & Ecosystem
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,c,js,php,linux,git,mysql,html,css" />
   </a>
-  <a href="https://www.linkedin.com/in/ceyda-gulen/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</p>
+
+---
+
+### 📫 Connect with me
+<p align="left">
+  <a href="https://www.linkedin.com/in/ceyda-gulen/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ceydagulen/ceydagulen/output/snake.svg" alt="Snake animation" />
-
-###
+  <a href="mailto:ceyda_glnn_@hotmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
